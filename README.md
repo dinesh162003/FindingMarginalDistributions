@@ -106,7 +106,9 @@ r
 print("The coefficient-correlation %0.4f"%r)
 ```
 
+ # Output : 
 
-
-# Results and Output : 
-
+![WhatsApp Image 2022-05-18 at 10 54 25 AM](https://user-images.githubusercontent.com/75235159/168965787-6a234568-9099-49dc-a377-dad7cc8ad440.jpeg)
+# Result :
+thus the marginal distribution andcorellation coefficient of joint probability mass funcition of two dimensional random variables
+hence proved
